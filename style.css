@@ -1,0 +1,68 @@
+table {
+    
+    width: 100px;
+    margin: 20px;
+    text-align:center;
+   
+    border-spacing: 10px; /* Ajoutez l'espacement désiré entre les cellules */
+            width: 100%
+}
+
+section {
+    border: 2px solid black;
+    background-color:blanchedalmond;
+    padding: 10px;
+}
+.T1{
+    border: 0px solid black;
+    background-color:blanchedalmond;
+    padding: 1%;
+}
+article{
+    
+    background-color:rgb(223, 167, 167);
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color: rgb(114, 5, 5);
+
+}
+h2{
+    text-align: center;
+    color: brown;
+
+}
+h3{
+    color:rgb(119, 5, 119);
+}
+body{background-color:#fff;
+    font-size:14px;
+    line-height:1.6;
+    font-family:"Merriweather Sans",sans-serif;
+    color:black;
+    -webkit-font-smoothing:antialiased;
+    -webkit-text-size-adjust:100%;
+    overflow-x:hidden
+}
+
+header{
+    background-color: rgb(255, 220, 220);
+    border :none;  
+    
+    
+}
+th, td {
+    
+    text-align: left;
+
+}
+a{
+    text-decoration: none;
+}
+.contact__form{
+    text-align: center;
+}
+.contact__visual{
+    text-align: center;
+}
